@@ -2,23 +2,25 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: nyctzo
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
