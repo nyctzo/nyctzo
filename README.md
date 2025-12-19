@@ -9,7 +9,7 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/snake.svg" />
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/snake.svg" />
   <img alt="snake contribution graph"
