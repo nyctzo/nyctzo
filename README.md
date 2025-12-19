@@ -16,6 +16,16 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph"
+    src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyctzo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
