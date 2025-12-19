@@ -1,21 +1,115 @@
-<h1 align="center">Hi 👋, I'm SWAYAM BHUYAN</h1>
-<h3 align="center">AI Automation • Robotics • Embedded Systems • Computer Vision Building intelligent systems that connect software, hardware, and real-world automation.</h3>
+<h1 align="center">Hi 👋, I'm Swayam Bhuyan</h1>
+<h3 align="center">
+AI Automation Engineer • Robotics Developer • Embedded Systems • Computer Vision
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyctzo&label=Profile%20views&color=0e75b6&style=flat" alt="nyctzo" /> </p>
+<p align="center">
+Building intelligent systems that connect <b>software, hardware, and real-world automation</b>.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyctzo" alt="nyctzo" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nyctzo&label=Profile%20views&color=0e75b6&style=flat" alt="nyctzo" />
+</p>
 
-- 🔭 I’m currently working on AI Automation & Robotics Projects Intelligent appointment-booking agents Workflow automation using n8n Quadruped robot (ARACHNOID) with PID-based self-balancing ML models for game analytics (CS2 Winner Prediction)ly working on [QUADRUPED-ROBOT](https://github.com/nyctzo/ARACHNOID)
+---
 
-- 🌱 I’m currently learning Advanced Machine Learning & Deep Learning AI Agents (LLMs, tools, memory, workflows) Computer Vision (OpenCV) Robotics control systems Cloud & Local AI deployment (Ollama, APIs) **Computer Vision (OpenCV)**
+## 🧠 About Me
+- 🤖 Hands-on experience in **AI Automation, Robotics & Embedded Systems**
+- 🦿 Built a **quadruped robot (ARACHNOID)** with IMU-based self-balancing using **PID control**
+- 🔁 Developed **workflow automations** using **n8n, APIs, and AI agents**
+- 👁️ Worked on **Computer Vision (OpenCV)** projects
+- 📊 Built ML models like **CS2 Winner Prediction**
+- ⚙️ Love bridging **AI + hardware + automation**
 
-- 👯 I’m looking to collaborate on Robotics, AI Automation & Embedded AI Projects Quadruped / mobile robots AI agents (voice & chat) Computer vision + robotics End-to-end automation systems **DOCTOR-APPOINTMENT-AUTOMATION**
+---
 
-- 🤝 I’m looking for help with **Computer vision + Robotics**
+## 🔭 Currently Working On
+- 🤖 **ARACHNOID** – Quadruped Robot with PID-based balance control  
+- 🧠 **AI Automation Systems** (Doctor appointment booking, lead handling, email workflows)
+- 📈 **Machine Learning projects** for game analytics & predictions
 
-- 👨‍💻 All of my projects are available at [https://github.com/nyctzo](https://github.com/nyctzo)
+🔗 Featured Project:  
+👉 **ARACHNOID Quadruped Robot**  
+https://github.com/nyctzo/ARACHNOID
 
-- 💬 Ask me about **AI Automation • n8n Workflows • Embedded Systems • Robotics • Quadruped Robots • OpenCV • PID Control**
+---
+
+## 🌱 Currently Learning
+- Advanced **Machine Learning & Deep Learning**
+- **AI Agents** (LLMs, tools, memory, workflows)
+- **Computer Vision** (OpenCV)
+- **Robotics control systems**
+- **Local & Cloud AI deployment** (Ollama, APIs)
+
+---
+
+## 👯 Looking to Collaborate On
+- 🤖 Robotics & Quadruped Robots  
+- 🧠 AI Automation (Voice & Chat Agents)
+- 👁️ Computer Vision + Robotics
+- ⚙️ End-to-end automation systems
+
+---
+
+## 🤝 Looking For Help With
+- Advanced **Computer Vision + Robotics integration**
+
+---
+
+## 💬 Ask Me About
+**AI Automation • n8n Workflows • Embedded Systems • Robotics • Quadruped Robots • OpenCV • PID Control**
+
+---
+
+## 📫 How to Reach Me
+📧 **Email:** swayambbhuyan@gmail.com  
+🌐 **GitHub:** https://github.com/nyctzo  
+
+---
+
+## ⚡ Fun Fact
+When I’m not building robots or automations,  
+⚽ I play football  
+💃 dance for fun  
+🐱 and cuddle with my cat  
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/swayam bhuyan" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/nyctzo" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyctzo&show_icons=true&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nyctzo&show_icons=true" />
+</p>
+nCV • PID Control**
 
 - 📫 How to reach me **swayambbhuyan@gmail.com**
 
