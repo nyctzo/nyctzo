@@ -1,2 +1,27 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.4.1
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+  
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: nyctzo
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate Pacman contribution graph"
+          add: "output"
