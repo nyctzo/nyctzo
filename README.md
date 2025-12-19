@@ -28,11 +28,11 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/.github/workflows/pacman.yml">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/.github/workflows/pacman.yml">
   <img alt="Pacman contribution graph" 
-    src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/nyctzo/nyctzo/.github/workflows/pacman.yml">
 </picture>
 
 ## 🧠 About Me
