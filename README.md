@@ -1,4 +1,4 @@
-<h1 align="center">SWAYAM BHUYANn</h1>
+<h1 align="center"> SWAYAM BHUYAN </h1>
 <h3 align="center">
 AI Automation Engineer • Robotics Developer • Embedded Systems • Computer Vision
 </h3>
