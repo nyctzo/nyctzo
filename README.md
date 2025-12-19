@@ -16,14 +16,15 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph"
-    src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nyctzo.nyctzo&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
@@ -35,15 +36,6 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" 
-    src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ## 🧠 About Me
