@@ -7,9 +7,6 @@ AI Automation Engineer • Robotics Developer • Embedded Systems • Computer 
 Building intelligent systems that connect <b>software, hardware, and real-world automation</b>.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nyctzo&label=Profile%20views&color=0e75b6&style=flat" alt="nyctzo" />
-</p>
 
 ---
 
