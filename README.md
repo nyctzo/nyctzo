@@ -30,7 +30,7 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 ###
 
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/snake.svg" alt="Snake animation" />
 
 ###
 
