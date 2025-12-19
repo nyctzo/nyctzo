@@ -13,7 +13,15 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyctzo&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/3d-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/3d-contribution-graph.svg" />
+  <img alt="3D contribution graph" 
+    src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/3d-contribution-graph.svg" />
+</picture>
+
 
 
 ## 🧠 About Me
