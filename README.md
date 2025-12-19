@@ -28,12 +28,13 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/.github/workflows/pacman.yml">
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/.github/workflows/pacman.yml">
+    srcset="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" 
-    src="https://raw.githubusercontent.com/nyctzo/nyctzo/.github/workflows/pacman.yml">
+    src="https://raw.githubusercontent.com/nyctzo/nyctzo/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ## 🧠 About Me
 - 🤖 Hands-on experience in **AI Automation, Robotics & Embedded Systems**
