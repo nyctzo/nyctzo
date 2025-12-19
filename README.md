@@ -122,12 +122,3 @@ When I’m not building robots or automations,
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyctzo&show_icons=true&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nyctzo&show_icons=true" />
-</p>
