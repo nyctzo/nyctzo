@@ -13,6 +13,9 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyctzo&theme=tokyonight)
+
+
 ## 🧠 About Me
 - 🤖 Hands-on experience in **AI Automation, Robotics & Embedded Systems**
 - 🦿 Built a **quadruped robot (ARACHNOID)** with IMU-based self-balancing using **PID control**
