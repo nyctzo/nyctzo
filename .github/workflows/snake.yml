@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ THIS FIXES YOUR ERROR
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake eating SWAYAM
         uses: Platane/snk@v3
         with:
@@ -21,15 +25,9 @@ jobs:
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
 
-      - name: Commit and push snake animation
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           add: "output"
           message: "Update snake animation"
           default_author: github_actions
-
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
