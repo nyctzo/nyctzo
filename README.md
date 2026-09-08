@@ -1,10 +1,10 @@
 <h1 align="center"> SWAYAM BHUYAN </h1>
 <h3 align="center">
-AI Automation Engineer • Robotics Developer • Embedded Systems • Computer Vision
+### Robotics & AI Engineer | Autonomous Robotics | ROS 2
 </h3>
 
 <p align="center">
-Building intelligent systems that connect <b>software, hardware, and real-world automation</b>.
+Building the intelligence that enables robots to understand, navigate, and interact with the world.</b>.
 </p>
 
 <picture>
@@ -33,13 +33,16 @@ Building intelligent systems that connect <b>software, hardware, and real-world 
 ###
 
 
-## 🧠 About Me
-- 🤖 Hands-on experience in **AI Automation, Robotics & Embedded Systems**
-- 🦿 Built a **quadruped robot (ARACHNOID)** with IMU-based self-balancing using **PID control**
-- 🔁 Developed **workflow automations** using **n8n, APIs, and AI agents**
-- 👁️ Worked on **Computer Vision (OpenCV)** projects
-- 📊 Built ML models like **CS2 Winner Prediction**
-- ⚙️ Love bridging **AI + hardware + automation**
+## 🤖 About Me
+
+I’m a Robotics & AI Engineer focused on building autonomous systems that operate in the real world.
+
+- 🤖 Hands-on experience with **ROS 2, Autonomous Mobile Robots (AMRs), and robotic navigation**
+- 🛠️ Designed and built a **Mecanum-wheeled autonomous mobile robot** from the ground up
+- 🧠 Experience across **SLAM, sensor fusion, path planning, computer vision, and robot control**
+- ⚙️ Strong interest in **robotics software, embedded systems, and autonomous systems**
+- 🔬 Research/internship experience working on **mobile robotics and autonomous systems**
+- 🚀 Interested in building reliable robots that combine **AI, perception, planning, and control**
 
 ---
 
@@ -55,29 +58,39 @@ https://github.com/nyctzo/ARACHNOID
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Machine Learning & Deep Learning**
-- **AI Agents** (LLMs, tools, memory, workflows)
-- **Computer Vision** (OpenCV)
-- **Robotics control systems**
-- **Local & Cloud AI deployment** (Ollama, APIs)
+
+- 🧠 **Advanced Machine Learning & Deep Learning**
+- 👁️ **Computer Vision & Perception**
+- 🤖 **Autonomous Navigation & Robotics**
+- ⚙️ **Robot Control & Sensor Fusion**
+- 🧩 **AI Agents & Intelligent Automation**
+- ☁️ **AI Deployment & Edge Computing**
 
 ---
 
-## 👯 Looking to Collaborate On
-- 🤖 Robotics & Quadruped Robots  
-- 🧠 AI Automation (Voice & Chat Agents)
-- 👁️ Computer Vision + Robotics
-- ⚙️ End-to-end automation systems
+## 🤝 Looking to Collaborate On
+
+- 🤖 **Autonomous Mobile Robots & AMRs**
+- 🧭 **Robot Navigation, SLAM & Path Planning**
+- 👁️ **Computer Vision & Robotic Perception**
+- ⚙️ **Embedded Robotics & Control Systems**
+- 🧠 **AI-powered Autonomous Systems**
 
 ---
 
-## 🤝 Looking For Help With
-- Advanced **Computer Vision + Robotics integration**
+## 🎯 Open to Opportunities
+
+- **Robotics Engineer**
+- **Robotics R&D**
+- **Autonomous Systems Engineer**
+- **Computer Vision / Perception Engineer**
+- **AI & Robotics roles**
 
 ---
 
 ## 💬 Ask Me About
-**AI Automation • n8n Workflows • Embedded Systems • Robotics • Quadruped Robots • OpenCV • PID Control**
+
+**ROS 2 • Autonomous Mobile Robots • SLAM • Navigation • Computer Vision • Sensor Fusion • Robot Control • Embedded Systems**
 
 ---
 
