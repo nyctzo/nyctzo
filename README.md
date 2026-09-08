@@ -1,6 +1,6 @@
 <h1 align="center"> SWAYAM BHUYAN </h1>
 <h3 align="center">
-### Robotics & AI Engineer | Autonomous Robotics | ROS 2
+ Robotics & AI Engineer | Autonomous Robotics | ROS 2
 </h3>
 
 <p align="center">
